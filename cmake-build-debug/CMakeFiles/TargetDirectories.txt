@@ -1,0 +1,6 @@
+/mnt/c/Users/paolo/CLionProjects/EsameTema3/cmake-build-debug/CMakeFiles/EsameTema3.dir
+/mnt/c/Users/paolo/CLionProjects/EsameTema3/cmake-build-debug/CMakeFiles/test_activity.dir
+/mnt/c/Users/paolo/CLionProjects/EsameTema3/cmake-build-debug/CMakeFiles/test_day.dir
+/mnt/c/Users/paolo/CLionProjects/EsameTema3/cmake-build-debug/CMakeFiles/test.dir
+/mnt/c/Users/paolo/CLionProjects/EsameTema3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/paolo/CLionProjects/EsameTema3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

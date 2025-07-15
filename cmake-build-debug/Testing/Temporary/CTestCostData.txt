@@ -1,0 +1,4 @@
+cmake-build-debug/test_activity 0 0
+test_day 3 0.00663129
+---
+cmake-build-debug/test_activity

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/EsameTema3.dir/main.cpp.o CMakeFiles/EsameTema3.dir/Activity.cpp.o CMakeFiles/EsameTema3.dir/Day.cpp.o CMakeFiles/EsameTema3.dir/View.cpp.o -o EsameTema3  -lcurses /usr/lib/x86_64-linux-gnu/libform.so 

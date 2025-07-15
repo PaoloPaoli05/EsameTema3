@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/test_day.dir/test_day.cpp.o CMakeFiles/test_day.dir/Activity.cpp.o CMakeFiles/test_day.dir/Day.cpp.o -o test_day  -lpthread /usr/local/lib/libgtest_main.a /usr/local/lib/libgtest.a 
